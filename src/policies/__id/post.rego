@@ -1,7 +1,7 @@
 package peoplefinder.POST.api.users.__id
 
 import input.policy.path
-import input.user.attributes.roles as user_roles
+import input.user.properties.roles as user_roles
 
 default allowed = false
 
