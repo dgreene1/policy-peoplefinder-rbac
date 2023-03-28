@@ -1,3 +1,5 @@
 server: registry.prod.aserto.com
+# This is not the username in Github, it's the username in Aserto
 username: dgreene1-personal
-repo: dgreene1/policy-peoplefinder-rbac
+# This is not the repo in Github, it's the repo in Aserto
+repo: dgreene1-personal/policy-peoplefinder-rbac
