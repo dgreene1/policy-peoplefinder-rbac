@@ -10,6 +10,10 @@ default visible = false
 default enabled = false
 
 allowed {
+  user_attributes.roles == "superadmin"
+}
+
+allowed {
 	some index
 	data.roles[user_roles[index]].perms[path].allowed
 }
