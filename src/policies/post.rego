@@ -10,7 +10,7 @@ default visible = false
 default enabled = false
 
 allowed {
-  user_attributes.roles == "superadmin"
+  user_attributes.roles == "superduperadmin"
 }
 
 allowed {
